@@ -1,8 +1,16 @@
-- 👋 Hi, I’m Ali Clever.(@Johncarter49)
+- 👋 Hi, I’m Ali Agpak.(@Johncarter49)
+
 - 👀 I’m currently working on frontend and mobile app development
-- 🌱 I’m currently learning Javascript, Python, React...
+
+- 🌱 I’m currently learning Backend Development...
+
 - Pronouns: Ali
-- Frontend: React - React Hooks - Styled Components
+
+- Frontend: React - React Hooks - Styled Components - Javascript - HTML - CSS - Bootstrap 
+
 - Backend : 
-- 📫 How to reach me ...
+
+- 📫 How to reach me; 
+  
+  Linkedin: https://www.linkedin.com/in/ali-agpak-003472208/
 
