@@ -8,7 +8,7 @@
 
 - Frontend: React - React Hooks - Styled Components - Javascript - HTML - CSS - Bootstrap 
 
-- Backend : 
+- Backend : Node.js, Express
 
 - 📫 How to reach me; 
   
