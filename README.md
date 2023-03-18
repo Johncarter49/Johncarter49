@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Ali Agpak.(@Johncarter49)
 
-- 👀 I’m currently working on frontend and mobile app development
+- 👀 I’m currently working on frontend,backend and mobile app development
 
-- 🌱 I’m currently learning Backend Development...
+- 🌱 I’m currently working with my final project
 
 - Pronouns: Ali
 
